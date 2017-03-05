@@ -7,3 +7,8 @@
 - **Got stuck on:** N/A
 - **Coming week:** Work on RBF-FD approximations
 
+## 03-03-2017
+
+- **Past week:** Finished an initial implementation of RBF-FD
+- **Got stuck on:** N/A
+- **Coming week:** Work on tests and a better implementation
