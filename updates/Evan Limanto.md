@@ -9,6 +9,6 @@
 
 ## 03-03-2017
 
-- **Past week:** Finished an initial implementation of RBF-FD
+- **Past week:** Finished an initial implementation of RBF-FD ([commit](https://github.com/evanlimanto/scipy/commit/a88fc529e27e58b350607034325d200c4ee1522a))
 - **Got stuck on:** N/A
 - **Coming week:** Work on tests and a better implementation
