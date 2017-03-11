@@ -14,9 +14,16 @@
 - **Past week:** Filed bug [#2554](https://github.com/scikit-image/scikit-image/issues/2554) 
 	and worked on PR [#2555](https://github.com/scikit-image/scikit-image/pull/2555)
 	which addresses issue [#2538](https://github.com/scikit-image/scikit-image/issues/2538).
-	Scoured every file for argument name name changes (e.g. img -> image), and
-	began deprecating `skimage.morphology`'s shapes (moving to standalone
-	module).
+	Scoured every file for argument name changes (e.g. img -> image) and began
+	deprecating `skimage.morphology`'s shapes (moving to standalone module).
 - **Got stuck on:** Untangling `skimage.morphology` dependencies on
 	`skimage.morphology.selem`. Will ask Stéfan for help.
 - **Coming week:** Hopefully finish this PR and review changes necessary.
+
+## 03-10-2017
+
+- **Past week:** Filed issue [#2557](https://github.com/scikit-image/scikit-image/issues/2557)
+and made further progress on PR [#2555](https://github.com/scikit-image/scikit-image/pull/2555);
+morphology.shapes implemented.
+- **Got stuck on:** Minor issues, sorted with Stéfan.
+- **Coming week:** Work on thresholds.
