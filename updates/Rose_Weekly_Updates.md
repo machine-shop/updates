@@ -11,3 +11,9 @@
 - **Past Week:** Fixed most of the issues on the website including documentation, download and user guide pages. Translated a few files from yxdragon.
 - **Got Stuck on:** Not sure the download method for Conda and how to fold up subtopics.
 - **Comming Week:** Hopefully finish fixing the website and keep on translating yxdragon's files.
+
+## 03-16-2017
+
+- **Past Week:** Fixed all the website issues except for the last two that I got stucked on. 
+- **Got Stuck on:** Still not sure how to fold up the subtopics in api and move the contents bar to the top.
+- **Comming Week:** Start fixing issues on github and focus more on translating the files from yxdragon.
