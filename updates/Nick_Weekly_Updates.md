@@ -34,4 +34,4 @@ morphology.shapes implemented.
 liked, there is still work to do.
 - **Got stuck on:** Finding time in between midterms.
 - **Coming week:** Finish thresholds, run tests, file PR and pick up a new
-project.
+project after dicussing with Stéfan.
