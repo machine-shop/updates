@@ -27,3 +27,11 @@ and made further progress on PR [#2555](https://github.com/scikit-image/scikit-i
 morphology.shapes implemented.
 - **Got stuck on:** Minor issues, sorted with Stéfan.
 - **Coming week:** Work on thresholds.
+
+## 03-17-2017
+
+- **Past week:** Worked on thresholds but not as much as I would have liked so
+I did not get it finished.
+- **Got stuck on:** Finding time between midterms.
+- **Coming week:** Finish thresholds, run tests, discuss future projects with 
+Stéfan.
