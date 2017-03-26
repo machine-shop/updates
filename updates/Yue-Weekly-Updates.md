@@ -20,6 +20,6 @@
 
 ## 03-24-2017
 
-- **Past week:** Cleaned up code a little and added condition to stop iteration.
+- **Past week:** Cleaned up code a little and added condition to stop iteration. Used python profiling tool to analyze running time and efficiency of individual code blocks/helper functions within main function.
 - **Got stuck on:** Code is still not efficient enough, need to speed up local variance calculation
-- **Coming week:** Rewrite local variance calculation. Continue to optimize code.
+- **Coming week:** Rewrite local variance calculation using scipy.LowLevelCallable. Continue profile and optimize code.
