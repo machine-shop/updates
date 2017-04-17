@@ -32,6 +32,6 @@
 
 ## 04-14-2017
 
-- **Past week:** Be able to trigger click event on DOM elements within Walkthorugh callback function
+- **Past week:** Be able to trigger click event on DOM elements within Walkthorugh callback function, https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
 - **Got stuck on:** The transition and click event handle is still laggy
 - **Coming week:** Try to handle the click handle smoothly and working on handle click events on react tabs represent Projects/Data/Features... 
