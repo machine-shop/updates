@@ -29,7 +29,7 @@
 - **Got stuck on:** Used profiling after speeding up local variance calculations and found that calculating precision of gradiant now takes up the most time. Not sure how to optimize.
 - **Coming week:** Research ways to optimize precision of gradient.
 
-## 04-07-2017
+## 04-14-2017
 - **Past week:** Modified cython code and python code with the help of Stefan to further speed up local variance calculation. Rewrote precision of gradient calculation in cython to decrease runtime.
 - **Got stuck on:** Some matrix calculations are still a little slow.
 - **Coming week:** Clean up and rewrite entire code in cython.
