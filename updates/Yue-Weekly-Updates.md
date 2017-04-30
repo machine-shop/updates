@@ -41,5 +41,5 @@
 
 ## 04-28-2017
 - **Past week:** Cleaned up code and moved all code to the skimage filters folder. Added documentation and gallery example, and made a pull request.
-- **Got stuck on:** Hard to come up with a unit test ideas. 
+- **Got stuck on:** Hard to come up with unit test ideas. 
 - **Coming week:** Follow up and work on the PR if there are any comments.
