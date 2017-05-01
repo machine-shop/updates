@@ -28,3 +28,13 @@
 - **Past week:** Rewrote local variance calculation using Cython and scipy.LowLevelCallable. Decreased the percentage of the runtime occupied from around 55%~60% to 20%~25%. Decreased total runtime for 120 iterations on a ~300x400 image from ~6s to ~3s.
 - **Got stuck on:** Used profiling after speeding up local variance calculations and found that calculating precision of gradiant now takes up the most time. Not sure how to optimize.
 - **Coming week:** Research ways to optimize precision of gradient.
+
+## 04-14-2017
+- **Past week:** Modified cython code and python code with the help of Stefan to further speed up local variance calculation. Rewrote precision of gradient calculation in cython to decrease runtime.
+- **Got stuck on:** Some matrix calculations are still a little slow.
+- **Coming week:** Clean up and rewrite entire code in cython.
+
+## 04-21-2017
+- **Past week:** Copied all the code from IPython file to Cython.
+- **Got stuck on:** Had some trouble with numpy array type definition in Cython. Didn't get much speed up because a lot of interatction with Python. 
+- **Coming week:** Clean up and refine Cython code. Prepare for pull request.
