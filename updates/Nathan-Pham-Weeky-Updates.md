@@ -35,3 +35,9 @@
 - **Past week:** Be able to trigger click event on DOM elements within Walkthorugh callback function, https://github.com/trpham/cesium_web/blob/master/public/scripts/main.jsx
 - **Got stuck on:** The transition and click event handle is still laggy
 - **Coming week:** Try to handle the click handle smoothly and working on handle click events on react tabs represent Projects/Data/Features... 
+
+## 04-31-2017
+
+- **Past week:** Decided to let users to click on tabs and given input to textboxes in order to move to a next step instead of automatically do it for them.
+- **Got stuck on:** Unable to resume the walkthrough after users click to expand tabs.
+- **Coming week:** Find a walk around to resume the walkthrough after every user interactions.
