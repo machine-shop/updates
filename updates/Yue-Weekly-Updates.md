@@ -38,3 +38,8 @@
 - **Past week:** Copied all the code from IPython file to Cython.
 - **Got stuck on:** Had some trouble with numpy array type definition in Cython. Didn't get much speed up because a lot of interatction with Python. 
 - **Coming week:** Clean up and refine Cython code. Prepare for pull request.
+
+## 04-28-2017
+- **Past week:** Cleaned up code and moved all code to the skimage filters folder. Added documentation and gallery example, and made a pull request.
+- **Got stuck on:** Hard to come up with unit test ideas. 
+- **Coming week:** Follow up and work on the PR if there are any comments.
